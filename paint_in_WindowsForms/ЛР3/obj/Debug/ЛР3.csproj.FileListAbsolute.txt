@@ -1,0 +1,12 @@
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\bin\Debug\ЛР3.exe.config
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\bin\Debug\ЛР3.exe
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\bin\Debug\ЛР3.pdb
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.csproj.AssemblyReference.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.csproj.SuggestedBindingRedirects.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.Properties.Resources.resources
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.UserControl1.resources
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.csproj.GenerateResource.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.csproj.CoreCompileInputs.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.exe
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.pdb
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР3\ЛР3\obj\Debug\ЛР3.ParametrsForm.resources

@@ -1,0 +1,11 @@
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\bin\Debug\ЛР_5.exe.config
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\bin\Debug\ЛР_5.exe
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\bin\Debug\ЛР_5.pdb
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\obj\Debug\ЛР_5.csproj.AssemblyReference.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\obj\Debug\ЛР_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\obj\Debug\ЛР_5.Form1.resources
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\obj\Debug\ЛР_5.Properties.Resources.resources
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\obj\Debug\ЛР_5.csproj.GenerateResource.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\obj\Debug\ЛР_5.csproj.CoreCompileInputs.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\obj\Debug\ЛР_5.exe
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_5\ЛР_5\obj\Debug\ЛР_5.pdb

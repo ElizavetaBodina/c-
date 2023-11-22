@@ -1,0 +1,8 @@
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_2\ЛР_2\bin\Debug\ЛР_2.exe.config
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_2\ЛР_2\bin\Debug\ЛР_2.exe
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_2\ЛР_2\bin\Debug\ЛР_2.pdb
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_2\ЛР_2\obj\Debug\ЛР_2.csproj.AssemblyReference.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_2\ЛР_2\obj\Debug\ЛР_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_2\ЛР_2\obj\Debug\ЛР_2.csproj.CoreCompileInputs.cache
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_2\ЛР_2\obj\Debug\ЛР_2.exe
+C:\Users\LIZA-PC\Documents\ТехРазРаб\ЛР_2\ЛР_2\obj\Debug\ЛР_2.pdb
